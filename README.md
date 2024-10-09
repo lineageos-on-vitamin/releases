@@ -35,7 +35,7 @@ adb sideload lineage-packagename.zip
 Reboot to System
 
 ### Reporting bugs / requesting features
-Create an issue [here](https://github.com/lineageos-on-pdx201/releases/issues) with the LineageOS exact version and steps on how to reproduce if it's an issue or what you want to be added into LineageOS.
+Create an issue [here](https://github.com/lineageos-on-vitamin/releases/issues) with the LineageOS exact version and steps on how to reproduce if it's an issue or what you want to be added into LineageOS.
 
 Google Apps, OnePlus Camera app, Magisk and SafetyNet/Play Integrity related bugs/requests will be ignored and immediately closed !
 
