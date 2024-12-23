@@ -1,7 +1,7 @@
 # LineageOS Downloads
 
 ### Requirements
-The latest Android 14 firmware (14.0.0.550(EX01) for CPH2491/CPH2493), an [unlocked bootloader](https://service.oneplus.com/in/search/search-detail?id=op588) (Skip all steps related to get an ```unlock_token.bin``` and use ```fastboot flashing unlock```) and USB debugging enabled from developer options.
+The latest Android 14 firmware (14.0.0.560(EX01) for CPH2491/CPH2493), an [unlocked bootloader](https://service.oneplus.com/in/search/search-detail?id=op588) (Skip all steps related to get an ```unlock_token.bin``` and use ```fastboot flashing unlock```) and USB debugging enabled from developer options.
 
 The latest LineageOS .zip package and boot, dtbo and vendor_boot .img files for vitamin available [here](https://github.com/lineageos-on-vitamin/releases/releases).
 
@@ -42,7 +42,7 @@ Google Apps, OnePlus Camera app, Magisk and SafetyNet/Play Integrity related bug
 ### FAQS
 **Q1: How do I update my firmware after flashing LineageOS ?**
 
-Answer: The latest firmware available for CPH2491 is included on the LineageOS .zip package, hence keeping your firmware updated on each updates.
+Answer: The latest firmware available for CPH2493EEA is included on the LineageOS .zip package, hence keeping your firmware updated on each updates.
 
 **Q2: Are Google Apps included with LineageOS ?**
 
