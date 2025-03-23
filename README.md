@@ -37,7 +37,9 @@ Reboot to System
 ### Reporting bugs / requesting features
 Create an issue [here](https://github.com/lineageos-on-vitamin/releases/issues) with the LineageOS exact version and steps on how to reproduce if it's an issue or what you want to be added into LineageOS.
 
-Google Apps, OnePlus Camera app, Magisk and SafetyNet/Play Integrity related bugs/requests will be ignored and immediately closed !
+Google Apps, OnePlus Camera app, Magisk, KSU and SafetyNet/Play Integrity related bugs/requests will be ignored and immediately closed !
+
+Additionnally, if you aren't using exactly the same files available on the release section (ex: Using a different recovery like TWRP, a different kernel or being rooted), your issue will be ignored and immediately closed !
 
 ### FAQS
 **Q1: How do I update my firmware after flashing LineageOS ?**
@@ -78,5 +80,6 @@ Your warranty is now voided and I am not responsible for any bricks or bootloop.
 Any apropriation/stealing and/or unauthorized redistribition of my work on the Internet without my constent is stricly forbidden.
 
 ```
-Copyright (C) 2024 The LineageOS Project
+SPDX-FileCopyrightText: The LineageOS Project
+SPDX-License-Identifier: Apache-2.0
 ```
